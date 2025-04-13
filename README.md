@@ -53,8 +53,6 @@ This project was built as a short-term machine learning task to demonstrate the 
    ```bash
    git clone https://github.com/Khansa05/movie-sentiment-app.git
    cd movie-sentiment-app
-2. Install requirements:
-pip install -r requirements.txt
-3. Run the Streamlit app:
+   pip install -r requirements.txt
    streamlit run app.py
 
