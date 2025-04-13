@@ -28,12 +28,12 @@ This project was built as a short-term machine learning task to demonstrate the 
 
 ## 📂 Project Structure
 
-├── app.py # Streamlit web app 
-├── svm_model.pkl # Trained SVM model 
-├── vectorizer.pkl # TF-IDF vectorizer 
-├── requirements.txt # Python dependencies 
-├── Sentiment_Analysis_Report.docx # Project report document 
-└── README.md # Project documentation
+- app.py # Streamlit web app 
+- svm_model.pkl # Trained SVM model 
+- vectorizer.pkl # TF-IDF vectorizer 
+- requirements.txt # Python dependencies 
+- Sentiment_Analysis_Report.docx # Project report document 
+- README.md # Project documentation
 
 ---
 
